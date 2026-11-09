@@ -1,0 +1,10 @@
+# data is not distributed with this repository
+data/
+figures_out/
+*.txt.gz
+*.xlsx
+*.csv
+!requirements.txt
+__pycache__/
+*.pyc
+.DS_Store
